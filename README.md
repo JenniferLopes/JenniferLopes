@@ -5,6 +5,15 @@
 💜 Meu grande incentivo para migrar para área de dados, veio de uma comunidade que eu hoje sou co-fundadora
   - **Venha conhecer a R-Ladies Goiânia** [[Acesse nosso site](https://www.rladiesgyn.com/)]
 
+
+🔭Eventos
+
+🌱 Semana da Estatística Experimental e Data Science no Agro
+[Banner](https://github.com/JenniferLopes/JenniferLopes/assets/67852083/a5aeed73-b51a-4b0a-bf24-e26912ab3db9)
+08/05/2024
+[Link da Apresentação]
+
+
   
 
 
