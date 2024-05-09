@@ -1,4 +1,4 @@
- 🌱 Sou uma Engenheira Agrônoma em fase de conclusão de Doutorado em Melhoramento Genético de Plantas e possuo mais de seis anos de experiência em pesquisas agronômicas.
+[Palestra_Comunidade_Estatistica.pdf](https://github.com/JenniferLopes/JenniferLopes/files/15256500/Palestra_Comunidade_Estatistica.pdf) 🌱 Sou uma Engenheira Agrônoma em fase de conclusão de Doutorado em Melhoramento Genético de Plantas e possuo mais de seis anos de experiência em pesquisas agronômicas.
 - Desde de sempre o mundo dos dados me facina, e foi quando eu resolvi, fazer uma mudança na minha carreira. 
 - Aqui estou, atualmente sou Analista de P&D SR Dados e Sistemas na empresa Suzano, da área de Melhoramento Florestal.
 
@@ -9,9 +9,10 @@
 🔭Eventos
 
 🌱 Semana da Estatística Experimental e Data Science no Agro
-[Banner](https://github.com/JenniferLopes/JenniferLopes/assets/67852083/a5aeed73-b51a-4b0a-bf24-e26912ab3db9)
-08/05/2024
-[Link da Apresentação]
+- [Banner](https://github.com/JenniferLopes/JenniferLopes/assets/67852083/a5aeed73-b51a-4b0a-bf24-e26912ab3db9)
+- 08/05/2024
+- [Uploading Palestra_Comunidade_Estatistica.pdf…]
+
 
 
   
