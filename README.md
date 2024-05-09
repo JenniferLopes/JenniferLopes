@@ -13,7 +13,7 @@
 🌱 Semana da Estatística Experimental e Data Science no Agro
 - [Banner](https://github.com/JenniferLopes/JenniferLopes/assets/67852083/a5aeed73-b51a-4b0a-bf24-e26912ab3db9)
 - 08/05/2024
-- 
+- [Apresentação](https://github.com/JenniferLopes/JenniferLopes/blob/4502c2669ee6bb2bac53e6ee148d8934c6d52aa4/Palestra_Comunidade_Estatistica.pdf)
 
 
 
