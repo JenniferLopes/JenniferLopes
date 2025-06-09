@@ -4,7 +4,7 @@
 - Desde de sempre o mundo dos dados me facina, e foi quando eu resolvi, fazer uma mudança na minha carreira. 
 - Aqui estou, atualmente sou Analista de P&D SR Dados e Sistemas na empresa Suzano, da área de Melhoramento Florestal.
 
-💜 Meu grande incentivo para migrar para área de dados, veio da uma comunidade R-Ladies
+💜 Meu grande incentivo para migrar para área de dados, veio da comunidade R-Ladies
   - **Venha conhecer a R-Ladies Goiânia** [[Acesse nosso site](https://www.rladiesgyn.com/)]
 
 
