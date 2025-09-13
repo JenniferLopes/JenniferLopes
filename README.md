@@ -41,5 +41,4 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenniferLopes)
 [![R-Ladies Goiânia](https://img.shields.io/badge/R--Ladies-Goiânia-ff69b4?style=for-the-badge&logo=R&logoColor=white)](https://www.rladiesgyn.com/)
 
-![Snake animation](https://github.com/JenniferLopes/JenniferLopes/blob/output/github-contribution-grid-snake.svg)
 
