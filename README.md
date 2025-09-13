@@ -23,9 +23,9 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 - **Ferramentas**: Git/GitHub, RStudio, Quarto, Shiny
 - **Metodologias**: Metodologias ágeis, experimentação agronômica, ciência aberta e reprodutibilidade  
 
-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- ![Shiny](https://img.shields.io/badge/Shiny-47a4e8?style=for-the-badge&logo=rstudio&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-47a4e8?style=for-the-badge&logo=rstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 📫 Contato
