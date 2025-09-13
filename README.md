@@ -9,6 +9,6 @@ Sempre fui fascinada pelo mundo dos **dados** e, por isso, decidi migrar minha c
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/jenniferluzlopes/)  
+- [LinkedIn](https://www.linkedin.com/in/jennifer-luz-lopes/)  
 - [GitHub](https://github.com/JenniferLopes)  
 - [R-Ladies Goiânia](https://www.rladiesgyn.com/)
