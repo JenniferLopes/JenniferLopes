@@ -26,6 +26,6 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 
 ## 📫 Contato
 
--[![LinkedIn](https://www.linkedin.com/in/jennifer-luz-lopes/)  
+- [![LinkedIn] (https://www.linkedin.com/in/jennifer-luz-lopes/)  
 - [GitHub](https://github.com/JenniferLopes)  
 - [R-Ladies Goiânia](https://www.rladiesgyn.com/)
