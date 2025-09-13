@@ -6,13 +6,9 @@ Sempre fui fascinada pelo mundo dos **dados** e, por isso, decidi migrar minha c
 💜 Minha principal inspiração para essa transição veio da comunidade **R-Ladies**:  
 ➡️ [Conheça a R-Ladies Goiânia](https://www.rladiesgyn.com/)
 
----
 
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/jenniferluzlopes/)  
 - [GitHub](https://github.com/JenniferLopes)  
 - [R-Ladies Goiânia](https://www.rladiesgyn.com/)
-
----
-
