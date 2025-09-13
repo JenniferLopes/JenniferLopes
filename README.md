@@ -15,7 +15,7 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 - **Ciência de Dados**: experiência em **R**, criação de pipelines reprodutíveis, uso de pacotes como `lme4`, `metan`, `tidyverse`, `caret` e construção de **dashboards interativos em Shiny**.  
 - **Ensino e Comunidade**: mentora e instrutora em cursos de **estatística experimental e programação em R**, colaboradora ativa em eventos da comunidade **R-Ladies** e na divulgação de ciência aberta.  
 
-## 🚀 Habilidades Técnicas
+## 💜 Habilidades Técnicas
 
 - **Linguagens**: R
 - **Estatística**: Estatistica, Modelos mistos (REML/BLUP), Índices de seleção (MGIDI), PCA, clustering, análise fatorial, univariada, multivariada  
@@ -28,11 +28,11 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Contribuições
+## 💜 Contribuições
 
 ![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferLopes&show_icons=true&theme=dracula)
 
-## Linguagens
+## 💜 Linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferLopes&layout=compact&theme=dracula)
 
 ## 📫 Contato
