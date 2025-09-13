@@ -1,6 +1,6 @@
 # 🌱 Sobre mim
 
-Sou **Engenheira Agrônoma**, em fase de conclusão do **Doutorado em Melhoramento Genético de Plantas**, com mais de **8 anos de experiência em pesquisas agronômicas**.  
+Sou **Engenheira Agrônoma** com **Doutorado em Melhoramento Genético de Plantas**, com mais de **8 anos de experiência em pesquisas agronômicas**.  
 Sempre fui fascinada pelo mundo dos **dados** e, por isso, decidi migrar minha carreira para a área de **Ciência de Dados**.  
 
 💜 Minha principal inspiração para essa transição veio da comunidade **R-Ladies**:  
