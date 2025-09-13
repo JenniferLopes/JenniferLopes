@@ -42,3 +42,8 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 [![R-Ladies Goiânia](https://img.shields.io/badge/R--Ladies-Goiânia-ff69b4?style=for-the-badge&logo=R&logoColor=white)](https://www.rladiesgyn.com/)
 
 
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" alt="Banner Jennifer Lopes">
+</p>
+
+
