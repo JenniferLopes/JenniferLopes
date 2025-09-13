@@ -15,6 +15,13 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 - **Ciência de Dados**: experiência em **R**, criação de pipelines reprodutíveis, uso de pacotes como `lme4`, `metan`, `tidyverse`, `caret` e construção de **dashboards interativos em Shiny**.  
 - **Ensino e Comunidade**: mentora e instrutora em cursos de **estatística experimental e programação em R**, colaboradora ativa em eventos da comunidade **R-Ladies** e na divulgação de ciência aberta.  
 
+## 🚀 Habilidades Técnicas
+
+- **Linguagens**: R
+- **Estatística**: Estatistica, Modelos mistos (REML/BLUP), Índices de seleção (MGIDI), PCA, clustering, análise fatorial, univariada, multivariada  
+- **Data Science**: Machine Learning aplicado ao agro, pipelines reprodutíveis, APIs e automação em R  
+- **Ferramentas**: Git/GitHub, RStudio, Quarto, Shiny
+- **Metodologias**: Metodologias ágeis, experimentação agronômica, ciência aberta e reprodutibilidade  
 
 
 ## 📫 Contato
