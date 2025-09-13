@@ -40,10 +40,3 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenniferluzlopes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenniferLopes)
 [![R-Ladies Goiânia](https://img.shields.io/badge/R--Ladies-Goiânia-ff69b4?style=for-the-badge&logo=R&logoColor=white)](https://www.rladiesgyn.com/)
-
-
-<p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Banner Jennifer Lopes">
-</p>
-
-
