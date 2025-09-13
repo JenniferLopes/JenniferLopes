@@ -8,14 +8,6 @@ Sempre fui fascinada pelo mundo dos **dados** e, por isso, decidi migrar minha c
 
 ---
 
-## 🔭 Eventos
-
-### 🌱 Semana da Estatística Experimental e Data Science no Agro  
-- **Data:** 08/05/2024  
-- **Material:** [Apresentação](https://github.com/JenniferLopes/JenniferLopes/blob/4502c2669ee6bb2bac53e6ee148d8934c6d52aa4/Palestra_Comunidade_Estatistica.pdf)
-
----
-
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/jenniferluzlopes/)  
