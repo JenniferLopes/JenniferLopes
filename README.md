@@ -37,6 +37,9 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 
 ## 📫 Contato
 
-[![LinkedIn](www.linkedin.com/in/jennifer-luz-lopes)](https://www.linkedin.com/in/jenniferluzlopes/)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jennifer-luz-lopes)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenniferLopes)
 [![R-Ladies Goiânia](https://img.shields.io/badge/R--Ladies-Goiânia-ff69b4?style=for-the-badge&logo=R&logoColor=white)](https://www.rladiesgyn.com/)
+
