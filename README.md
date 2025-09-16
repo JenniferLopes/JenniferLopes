@@ -1,4 +1,4 @@
-# Sobre mim
+# Jennifer Lopes
 
 Sou **Engenheira Agrônoma**, com **Doutorado em Melhoramento Genético de Plantas**, com mais de **8 anos de experiência em pesquisas agronômicas**.  
 Minha trajetória une **pesquisa científica**, **estatística experimental** e **ciência de dados aplicada ao agro**.
