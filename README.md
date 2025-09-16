@@ -15,8 +15,11 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 - **Ciência de Dados**: experiência em **R**, criação de pipelines reprodutíveis, uso de pacotes como `lme4`, `metan`, `tidyverse`, `caret` e construção de **dashboards interativos em Shiny**.  
 - **Ensino e Comunidade**: mentora e instrutora em cursos de **estatística experimental e programação em R**, colaboradora ativa em eventos da comunidade **R-Ladies** e na divulgação de ciência aberta.
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=mlflow&logoColor=white)
+
+![Agronomy](https://img.shields.io/badge/Agronomy-228B22?style=for-the-badge&logo=leaflet&logoColor=white)
+![Plant Breeding](https://img.shields.io/badge/Plant%20Breeding-006400?style=for-the-badge&logo=spring&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-006699?style=for-the-badge&logo=graphql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge&logo=databricks&logoColor=white)
   
 
