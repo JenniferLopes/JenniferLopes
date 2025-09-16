@@ -47,10 +47,6 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 ## Linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferLopes&layout=compact&theme=dracula)
 
-## Teste
-![GitHub Streak](https://streak-stats.demolab.com?user=JenniferLopes&theme=dracula&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=JenniferLopes&color=blueviolet&style=for-the-badge)
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-luz-lopes/)
