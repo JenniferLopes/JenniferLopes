@@ -25,7 +25,6 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-47a4e8?style=for-the-badge&logo=rstudio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-4A90E2?style=for-the-badge&logo=quarto&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
