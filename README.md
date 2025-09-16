@@ -13,7 +13,12 @@ Sempre fui fascinada pelo mundo dos **dados** e essa paixão me levou a migrar m
 - **Pesquisa Agronômica**: mais de 8 anos conduzindo experimentos de campo e casa de vegetação, com foco em **Melhoramento Genético de arroz** (cruzamentos indica × japonica, SSD,).  
 - **Estatística Experimental**: domínio de delineamentos (DIC, DBC, blocos incompletos, alfa-látice, etc...), análises univariadas e multivariadas, herdabilidade, componentes de variância, correlação genética,  Modelos mistos - REML/BLUP, MGIDI, análise multivariada.
 - **Ciência de Dados**: experiência em **R**, criação de pipelines reprodutíveis, uso de pacotes como `lme4`, `metan`, `tidyverse`, `caret` e construção de **dashboards interativos em Shiny**.  
-- **Ensino e Comunidade**: mentora e instrutora em cursos de **estatística experimental e programação em R**, colaboradora ativa em eventos da comunidade **R-Ladies** e na divulgação de ciência aberta.  
+- **Ensino e Comunidade**: mentora e instrutora em cursos de **estatística experimental e programação em R**, colaboradora ativa em eventos da comunidade **R-Ladies** e na divulgação de ciência aberta.
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=mlflow&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-006699?style=for-the-badge&logo=graphql&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge&logo=databricks&logoColor=white)
+  
 
 ## Habilidades Técnicas
 
