@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,4B2E2B,6F4E37,A67B5B&height=200&section=header&text=Jennifer%20Luz%20Lopes&fontSize=46&fontColor=F5E6D3&animation=twinkling&fontAlignY=38&desc=Estatística%20%7C%20Ciência%20de%20Dados%20com%20R&descAlignY=60&descSize=16&descColor=D9B38C" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,8&height=200&section=header&text=Jennifer%20Luz%20Lopes&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Estatística%20%7C%20Ciência%20de%20Dados%20com%20R&descAlignY=60&descSize=16&descColor=ffd9b3" />
 
 <br/>
 
-[![Blog](https://img.shields.io/badge/☕%20Café%20com%20R-Blog-6F4E37?style=for-the-badge&logoColor=F5E6D3)](https://jenniferlopes.quarto.pub/portifolio/)
+[![Blog](https://img.shields.io/badge/☕%20Café%20com%20R-Blog-6F4E37?style=for-the-badge&logoColor=white)](https://jenniferlopes.quarto.pub/portifolio/)
 [![Serviços](https://img.shields.io/badge/🌐%20Site%20de%20Serviços-276DC3?style=for-the-badge&logoColor=white)](https://jenniferlopesconsultoriamentoria.netlify.app/)
 [![Agenda](https://img.shields.io/badge/📅%20Agendar%20Conversa-A67B5B?style=for-the-badge&logoColor=white)](https://calendar.app.google/vWhxfpWTTEAGGYSc6)
 [![YouTube](https://img.shields.io/badge/▶%20YouTube-1F4E8C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jennifercafecomr/posts)
@@ -117,7 +117,7 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,A67B5B,6F4E37,4B2E2B&height=120&section=footer&fontColor=F5E6D3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,8&height=120&section=footer&fontColor=fff" />
 
 *"Que cada análise gere decisão."* ☕
 
