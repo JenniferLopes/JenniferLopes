@@ -35,7 +35,7 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 
 | Plataforma | Link | Descrição |
 |-----------|------|----------|
-| Blog | [Café com R](https://jenniferlopes.quarto.pub/portifolio/) | Conteúdo técnico, projetos e artigos |
+| Blog | [Café com R](https://jenniferlopes.quarto.pub/portifolio/) | Conteúdo técnico aberto, projetos e artigos |
 | Serviços | [Site profissional](https://jenniferlopesconsultoriamentoria.netlify.app/) | Consultoria, mentoria e treinamentos |
 | Agenda | [Agendar conversa](https://calendar.app.google/vWhxfpWTTEAGGYSc6) | Conversa sobre projetos e parcerias |
 | YouTube | [Canal](https://www.youtube.com/@jennifercafecomr/posts) | Aulas e conteúdos práticos |
