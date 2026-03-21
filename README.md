@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,6F4E37,276DC3&height=200&section=header&text=Jennifer%20Luz%20Lopes&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Estatística%20%7C%20Ciência%20de%20Dados%20com%20R&descAlignY=58&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,F5E6D3,D9B38C&height=200&section=header&text=Jennifer%20Luz%20Lopes&fontSize=44&fontColor=4B2E2B&animation=twinkling&fontAlignY=36&desc=Estatística%20%7C%20Ciência%20de%20Dados%20com%20R&descAlignY=58&descSize=15" />
 
 <br/>
 
