@@ -37,14 +37,9 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 |-----------|------|----------|
 | ☕ Blog | [Café com R](https://jenniferlopes.quarto.pub/portifolio/) | Conteúdo técnico, projetos e artigos |
 | 🌐 Serviços | [Site profissional](https://jenniferlopesconsultoriamentoria.netlify.app/) | Consultoria, mentoria e treinamentos |
-| 🛠️ Mentoria | [Ver entregas](https://jenniferlopesconsultoriamentoria.netlify.app/mentoria) | Acompanhamento individualizado em R e dados |
-| 🔬 Consultoria | [Ver modalidades](https://jenniferlopesconsultoriamentoria.netlify.app/consultoria) | Do diagnóstico ao relatório final |
-| 👥 Equipes | [Cursos & Treinamentos](https://jenniferlopesconsultoriamentoria.netlify.app/cursos-equipe) | Formação de equipes em ciência de dados |
 | 📋 Formulário | [Shiny App](https://jenniferagronomia.shinyapps.io/consultoria-jennifer/) | Formulário de consultoria |
 | 📅 Agenda | [Agendar conversa](https://calendar.app.google/vWhxfpWTTEAGGYSc6) | Conversa sobre projetos e parcerias |
 | 🎥 YouTube | [Canal](https://www.youtube.com/@jennifercafecomr/posts) | Aulas e conteúdos práticos gratuitos |
-| 💜 R-Ladies | [R-Ladies Goiânia](https://www.rladiesgyn.com/) | Comunidade que co-fundei |
-
 ---
 
 ## Experiência
@@ -109,7 +104,6 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-276DC3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-luz-lopes/)
 [![GitHub](https://img.shields.io/badge/GitHub-4B2E2B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JenniferLopes)
-[![R-Ladies Goiânia](https://img.shields.io/badge/R--Ladies-Goiânia-882494?style=for-the-badge&logo=R&logoColor=white)](https://www.rladiesgyn.com/)
 
 </div>
 
