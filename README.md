@@ -6,10 +6,12 @@
 
 [![Blog](https://img.shields.io/badge/Café%20com%20R-Blog-6F4E37?style=for-the-badge&logoColor=white)](https://jenniferlopes.quarto.pub/portifolio/)
 [![Serviços](https://img.shields.io/badge/Site%20de%20Serviços-276DC3?style=for-the-badge&logoColor=white)](https://jenniferlopesconsultoriamentoria.netlify.app/)
-[![Agenda](https://img.shields.io/badge/Agendar%20Conversa-276DC3?style=for-the-badge&logoColor=white)](https://calendar.app.google/vWhxfpWTTEAGGYSc6)
-[![YouTube](https://img.shields.io/badge/YouTube-276DC3?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jennifercafecomr/posts)
+[![Agenda](https://img.shields.io/badge/Agendar%20Conversa-A67B5B?style=for-the-badge&logoColor=white)](https://calendar.app.google/vWhxfpWTTEAGGYSc6)
+[![YouTube](https://img.shields.io/badge/YouTube-1F4E8C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jennifercafecomr/posts)
 
 </div>
+
+<div class="barra-identidade"></div>
 
 ---
 
@@ -20,10 +22,10 @@ Sou **Jennifer Luz Lopes**, Engenheira Agrônoma, Mestre e Doutora em Ciências,
 Minha trajetória começou na pesquisa experimental, mas hoje atuo de forma ampla em **Estatística e Ciência de Dados com R**, conectando análise, modelagem e tomada de decisão.
 
 Trabalho com:
-- estruturação de análises  
-- modelagem estatística  
-- pipelines reprodutíveis  
-- desenvolvimento de soluções em dados  
+- estruturação de análises
+- modelagem estatística
+- pipelines reprodutíveis
+- desenvolvimento de soluções em dados
 
 Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saírem da execução de código para a geração de decisão baseada em dados.
 
@@ -45,25 +47,25 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 ## Experiência
 
 **Estatística Aplicada e Modelagem**
-- Modelos mistos (REML/BLUP)  
-- Componentes de variância e inferência  
-- Análises multivariadas (PCA, clustering, fatorial)  
+- Modelos mistos (REML/BLUP)
+- Componentes de variância e inferência
+- Análises multivariadas, como PCA, clustering e análise fatorial
 
 **Ciência de Dados com R**
-- tidyverse, lme4, metan, caret  
-- Pipelines reprodutíveis  
-- Dashboards com Shiny  
-- Relatórios automatizados com Quarto  
+- tidyverse, lme4, metan, caret
+- Pipelines reprodutíveis
+- Dashboards com Shiny
+- Relatórios automatizados com Quarto
 
 **Estruturação de Projetos**
-- Organização de dados e workflows  
-- Automação de análises  
-- Integração com APIs e ferramentas externas  
+- Organização de dados e workflows
+- Automação de análises
+- Integração com APIs e ferramentas externas
 
 **Ensino e Formação**
-- Mentoria individual em dados e R  
-- Treinamento para equipes  
-- Desenvolvimento de materiais técnicos e cursos  
+- Mentoria individual em dados e R
+- Treinamento para equipes
+- Desenvolvimento de materiais técnicos e cursos
 
 ---
 
@@ -72,10 +74,10 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 ### Linguagens e Ferramentas
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-276DC3?style=for-the-badge&logo=quarto&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-2C7FB8?style=for-the-badge&logo=rstudio&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-1F4E8C?style=for-the-badge&logo=quarto&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6F4E37?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4B2E2B?style=for-the-badge&logo=github&logoColor=white)
 
 ### Áreas de Atuação
 
@@ -89,9 +91,9 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 
 <div align="center">
 
-![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferLopes&show_icons=true&theme=dark&title_color=c8956c&icon_color=276DC3&text_color=ffffff&bg_color=1a1a2e&border_color=6F4E37)
+![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferLopes&show_icons=true&theme=dark&title_color=D9B38C&icon_color=276DC3&text_color=ffffff&bg_color=1a1a2e&border_color=6F4E37)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferLopes&layout=compact&theme=dark&title_color=c8956c&text_color=ffffff&bg_color=1a1a2e&border_color=6F4E37)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferLopes&layout=compact&theme=dark&title_color=D9B38C&text_color=ffffff&bg_color=1a1a2e&border_color=6F4E37)
 
 </div>
 
