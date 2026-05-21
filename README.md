@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Blog](https://img.shields.io/badge/☕%20Café%20com%20R-Blog-6F4E37?style=for-the-badge&logoColor=white)](https://jenniferlopes.quarto.pub/portifolio/)
+[![Blog](https://img.shields.io/badge/☕%20Café%20com%20R-Blog-6F4E37?style=for-the-badge&logoColor=white)](https://jenniferlopes.github.io/meu_site/)
 [![Serviços](https://img.shields.io/badge/🌐%20Site%20de%20Serviços-276DC3?style=for-the-badge&logoColor=white)](https://jenniferlopesconsultoriamentoria.netlify.app/)
 [![Agenda](https://img.shields.io/badge/📅%20Agendar%20Conversa-A67B5B?style=for-the-badge&logoColor=white)](https://calendar.app.google/vWhxfpWTTEAGGYSc6)
 [![YouTube](https://img.shields.io/badge/▶%20YouTube-1F4E8C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jennifercafecomr/posts)
@@ -35,7 +35,7 @@ Atuo como **Consultora e Instrutora**, ajudando profissionais e equipes a saíre
 
 | Plataforma | Link | Descrição |
 |-----------|------|----------|
-| ☕ Blog | [Café com R](https://jenniferlopes.quarto.pub/portifolio/) | Conteúdo técnico, projetos e artigos |
+| ☕ Blog | [Café com R](https://jenniferlopes.github.io/meu_site/) | Conteúdo técnico, projetos e artigos |
 | 🌐 Serviços | [Site profissional](https://jenniferlopesconsultoriamentoria.netlify.app/) | Consultoria, mentoria e treinamentos |
 | 📋 Formulário | [Shiny App](https://jenniferagronomia.shinyapps.io/consultoria-jennifer/) | Formulário de consultoria |
 | 📅 Agenda | [Agendar conversa](https://calendar.app.google/vWhxfpWTTEAGGYSc6) | Conversa sobre projetos e parcerias |
